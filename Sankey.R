@@ -7,7 +7,7 @@ library(networkD3)
 library(tidyverse)
 
 # Data
-Fourth_Iteration_Clean_Dataset_5_Lads_4_Humanity_with_extra_data_ <- read_excel("C:/Users/pierr/OneDrive/Documents/Maastricht University/Masters/SSIP2/Data/Fourth Iteration - Clean Dataset - 5 Lads 4 Humanity (with extra data).xlsx")
+Fourth_Iteration_Clean_Dataset_5_Lads_4_Humanity_with_extra_data_ <- read_excel("Fourth Iteration - Clean Dataset - 5 Lads 4 Humanity (with extra data).xlsx")
 dat <- Fourth_Iteration_Clean_Dataset_5_Lads_4_Humanity_with_extra_data_
 
 # Calculate the Values
